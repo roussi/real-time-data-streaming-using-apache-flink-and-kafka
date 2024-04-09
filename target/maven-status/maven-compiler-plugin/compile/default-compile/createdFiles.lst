@@ -1,0 +1,14 @@
+com/abdelrani/stockstreams/DataStreamJob.class
+com/abdelrani/stockstreams/configuration/JacksonConfiguration.class
+com/abdelrani/stockstreams/messages/in/Stock.class
+com/abdelrani/stockstreams/serdes/PriceDeserializer.class
+com/abdelrani/stockstreams/sources/SourceBuilder.class
+com/abdelrani/stockstreams/messages/out/StockUpdate.class
+com/abdelrani/stockstreams/operators/StockPriceJoiner.class
+com/abdelrani/stockstreams/configuration/KafkaProperties$KafkaPropertiesBuilder.class
+com/abdelrani/stockstreams/serdes/StockUpdateSerializer.class
+com/abdelrani/stockstreams/messages/out/StockUpdate$StockUpdateBuilder.class
+com/abdelrani/stockstreams/messages/in/Price.class
+com/abdelrani/stockstreams/serdes/StockDeserializer.class
+com/abdelrani/stockstreams/configuration/PropertiesLoader.class
+com/abdelrani/stockstreams/configuration/KafkaProperties.class

@@ -1,0 +1,12 @@
+/Users/aroussi/projects/lab/posts/live-stock-streaming/src/main/java/com/abdelrani/stockstreams/sources/SourceBuilder.java
+/Users/aroussi/projects/lab/posts/live-stock-streaming/src/main/java/com/abdelrani/stockstreams/messages/in/Price.java
+/Users/aroussi/projects/lab/posts/live-stock-streaming/src/main/java/com/abdelrani/stockstreams/configuration/KafkaProperties.java
+/Users/aroussi/projects/lab/posts/live-stock-streaming/src/main/java/com/abdelrani/stockstreams/configuration/JacksonConfiguration.java
+/Users/aroussi/projects/lab/posts/live-stock-streaming/src/main/java/com/abdelrani/stockstreams/DataStreamJob.java
+/Users/aroussi/projects/lab/posts/live-stock-streaming/src/main/java/com/abdelrani/stockstreams/serdes/PriceDeserializer.java
+/Users/aroussi/projects/lab/posts/live-stock-streaming/src/main/java/com/abdelrani/stockstreams/messages/out/StockUpdate.java
+/Users/aroussi/projects/lab/posts/live-stock-streaming/src/main/java/com/abdelrani/stockstreams/configuration/PropertiesLoader.java
+/Users/aroussi/projects/lab/posts/live-stock-streaming/src/main/java/com/abdelrani/stockstreams/messages/in/Stock.java
+/Users/aroussi/projects/lab/posts/live-stock-streaming/src/main/java/com/abdelrani/stockstreams/operators/StockPriceJoiner.java
+/Users/aroussi/projects/lab/posts/live-stock-streaming/src/main/java/com/abdelrani/stockstreams/serdes/StockUpdateSerializer.java
+/Users/aroussi/projects/lab/posts/live-stock-streaming/src/main/java/com/abdelrani/stockstreams/serdes/StockDeserializer.java
